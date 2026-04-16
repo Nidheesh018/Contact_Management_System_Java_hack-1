@@ -16,7 +16,7 @@ public class main{
     int x=sc.nextInt();
     switch(x){
         case 1:
-        
+        System.out.prinln("entet"
 
     }
 }
